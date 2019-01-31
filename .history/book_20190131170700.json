@@ -24,7 +24,7 @@
   "pluginsConfig": {
     "search-pro": {
       "cutWordLib": "nodejieba",
-      "defineWord": ["Gitbook Use"]
+      "defineWord" : ["Gitbook Use"]
     },
     "anchor-navigation-ex": {
       "showLevel": false
@@ -42,7 +42,7 @@
       }]
     },
     "editlink": {
-      "base": "https://github.com/nulx8874/gitbook-template/blob/master",
+      "base": "https://github.com/riskers/gitbook-template/blob/master",
       "label": "Edit",
       "multilingual": false
     },
